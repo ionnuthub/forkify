@@ -4,8 +4,8 @@
   "description": "Recipe Application",
   "default": "index.html",
   "scripts": {
-    "start": "parcel starter/index.html",
-    "build": "parcel build starter/index.html --dist-dir ./dist"
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Ionut Raducu",
   "license": "ISC",
